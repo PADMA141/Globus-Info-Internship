@@ -1,0 +1,304 @@
+.navbar{
+    height:65px;
+    width:auto;
+    background-color: black;
+}
+
+.button{
+    background-color: darkblue;
+    justify-content: center;
+    align-items: center;
+    height:60px;
+    width:100%;
+}
+
+.button button{
+    padding-left:25px;
+    padding-right:25px;
+    padding-top:10px;
+    padding-bottom:10px;
+    margin-top:5px;
+    background-color: darkblue;
+    color:white;
+    font-size:larger;
+    border-color:white;
+
+}
+.secondary{
+    background-color:black;
+    margin-left:10px;
+    font-size:larger;
+    padding: left 5px;
+
+}
+.heading{
+    font-size:larger;
+    color:white;
+    text-decoration:none;
+}
+.primary{
+    display:flex;
+    justify-content: space-between;
+}
+.home,.day1,.day2,.day3{
+    font-size:large;
+    margin-top:20px;
+    text-decoration: none;
+    color:white;
+}
+.third{
+    display:inline-block;
+    height: 350px;
+    width:100%;
+    background-color: lightskyblue;
+    text-align: justify;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 70px;
+}
+.third h1{
+    font-size:60px;
+    color:navy;
+    padding-top: 80px;
+    padding-left: 250px;
+   
+}
+.fourth{
+    display:inline-block;
+    background-color: navy;
+    height:150px;
+    width:100%;
+    text-align: center;
+
+    }
+.fourth p{
+    font-size:30px ;
+    color:white;
+}
+.five{
+    display: flex;
+}
+.five-one img{
+    height:700px;
+    width: 450px;
+}
+
+.five-two-one button{
+    background-color: #373d8b;
+    border: none;
+    width:100%;
+    margin: 14px 3px;
+    padding:10px;
+    cursor: pointer;
+
+}
+.five-two-one button a{
+    color:white;
+    text-decoration: none;
+} 
+
+.five-two-one{
+    width:100%;
+    height:40%;
+
+}
+
+.one{
+    height:50px;
+    width:auto;
+    background-color: white;
+    text-align:center;
+    font-size:xx-large;
+}
+.two{
+    height:500px;
+    width:auto;
+    background-color: aquamarine;
+}
+.two iframe{
+    height:100%;
+    width:100%;
+}
+.three{
+    color:white;
+    margin-top:20px;
+    padding-top:10px;
+    height:100px; 
+    width:auto;
+    background-color: blue;
+    font-size: xx-large;
+}
+.four{
+    height:150px;
+    width:auto;
+    display:flex;
+}
+
+.four p{
+   margin-left:200px;
+   margin-right:150px;
+
+}
+
+.six{
+    height:100px;
+    width:auto;
+    text-align: center;
+    background-color: blue;
+    
+}
+.six p{
+    color:white;
+    padding-top:30px;
+}
+.seven{
+    
+    height:100px;
+    width:auto;
+    text-align:center;
+    
+
+}
+.seven button{
+    margin:20px;
+    padding:5px;
+    padding-left:30px;
+    padding-right:30px;
+    background-color: blue;
+    color:white;
+    
+
+}
+.seven a{
+    text-decoration:none;
+    color: white;
+}
+.eight{
+    height:100px;
+    width:auto;
+    text-align:center;
+    display:flex;
+    color:white;
+    font-size: larger;
+    background-color: blue;
+}
+.eight p{
+    padding-top:20px;
+   padding-left:200px;
+
+}
+
+.nine{
+    height:1000px;
+    width:100%;
+
+}
+.nine-one{
+    height:300px;
+    width:100%;
+    display:flex;
+}
+.nine-one-one{
+    padding-left:100px;
+    font-size:x-large;
+}
+.nine-one-two{
+ padding-left:220px;
+ 
+ 
+
+}
+.nine-two{
+    height:700px;
+    width:100%;
+    display:flex;
+}
+.nine-two-one{
+    padding-left:100px;
+    font-size:x-large;
+}
+}
+.nine-two-two{
+    padding-left:800px;
+
+}
+.ten{
+    height:1000;
+    display:flex;
+    width:100%;
+}
+.ten-one{
+    padding-left:100px;
+    font-size:x-large;
+}
+.ten-two{
+    padding-left:100px;
+}
+.award{
+    font-size: xx-large;
+}
+.fo{
+    padding-left: 230px;
+}
+
+.for{
+    padding-left: 190px;
+}
+.t1{
+    color: dodgerblue;
+    font-size 30px;
+}
+
+.eleven{
+    height:1000;
+    display:inline-flex;
+    width:100%;
+}
+.eleven-one{
+    padding-left:100px;
+    font-size:x-large;
+}
+.eleven-two{
+    padding-left:200px;
+
+}
+
+
+.eleven1{
+    height:1000;
+    width:100%;
+    display:block;
+}
+.eleven-one1{
+    padding-left:00px;
+    padding-right:00px;
+    font-size:x-large;
+    display:flex;
+}
+.eleven-two1{
+    padding-right:500px;
+}
+.l{
+    padding-left:60px;
+    padding-right:70px;
+}
+.m{
+    padding-left:2px;
+    padding-right:20px;
+}
+.web{
+    display: inline-flex;
+}
+.eleven-one3{
+    padding-left:80px;
+    font-size:x-large;
+}
+.eleven-one4{
+    padding-left:80px;
+    padding-right: 50px;
+    font-size:x-large;
+}
+
+
+
+
+
